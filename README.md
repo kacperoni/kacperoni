@@ -1,7 +1,6 @@
-<h1>Cześć 👋, nazywam się Kacper!</h1>
+<h1>Hello 👋</h1>
 <h3>
-  Aktualnie uczę się programowania webowego w zakresie backend 😁
-  
+  Have a nice day!
 </h3>
 
 
